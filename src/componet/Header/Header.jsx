@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className="bg-blue-600 text-white shadow-lg">
       <div className="container mx-auto flex items-center justify-between p-4">
-        {/* Logo */}
+        {/* Logo */}   
         <div className="text-2xl font-bold">
           MyApp
         </div>
